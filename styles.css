@@ -1,1 +1,12 @@
 /* your code */
+table{
+	border-collapse:collapse;
+	width:90vw;
+}
+thead{
+	background-color:#215A8E;
+	color:white;
+}
+td{
+	padding:10px;
+}
